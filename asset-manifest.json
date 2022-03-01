@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/dogi/static/css/main.ebad52b0.chunk.css",
+    "main.js": "/dogi/static/js/main.6fc57069.chunk.js",
+    "main.js.map": "/dogi/static/js/main.6fc57069.chunk.js.map",
+    "runtime-main.js": "/dogi/static/js/runtime-main.1627040d.js",
+    "runtime-main.js.map": "/dogi/static/js/runtime-main.1627040d.js.map",
+    "static/js/2.ff5b7248.chunk.js": "/dogi/static/js/2.ff5b7248.chunk.js",
+    "static/js/2.ff5b7248.chunk.js.map": "/dogi/static/js/2.ff5b7248.chunk.js.map",
+    "static/js/3.889823d5.chunk.js": "/dogi/static/js/3.889823d5.chunk.js",
+    "static/js/3.889823d5.chunk.js.map": "/dogi/static/js/3.889823d5.chunk.js.map",
+    "index.html": "/dogi/index.html",
+    "static/css/main.ebad52b0.chunk.css.map": "/dogi/static/css/main.ebad52b0.chunk.css.map",
+    "static/js/2.ff5b7248.chunk.js.LICENSE.txt": "/dogi/static/js/2.ff5b7248.chunk.js.LICENSE.txt",
+    "static/media/1.40963388.png": "/dogi/static/media/1.40963388.png",
+    "static/media/1.b6bd2302.png": "/dogi/static/media/1.b6bd2302.png",
+    "static/media/10.7a5c8364.png": "/dogi/static/media/10.7a5c8364.png",
+    "static/media/11.4b728527.png": "/dogi/static/media/11.4b728527.png",
+    "static/media/12.04ca9d71.png": "/dogi/static/media/12.04ca9d71.png",
+    "static/media/13.aa7690e2.png": "/dogi/static/media/13.aa7690e2.png",
+    "static/media/14.6f917cf5.png": "/dogi/static/media/14.6f917cf5.png",
+    "static/media/15.581c6409.png": "/dogi/static/media/15.581c6409.png",
+    "static/media/16.6021543b.png": "/dogi/static/media/16.6021543b.png",
+    "static/media/17.566668ca.png": "/dogi/static/media/17.566668ca.png",
+    "static/media/2.32b70650.png": "/dogi/static/media/2.32b70650.png",
+    "static/media/2.59236c93.png": "/dogi/static/media/2.59236c93.png",
+    "static/media/3.10b0b945.png": "/dogi/static/media/3.10b0b945.png",
+    "static/media/3.66bfb6d9.png": "/dogi/static/media/3.66bfb6d9.png",
+    "static/media/4.af92bc94.png": "/dogi/static/media/4.af92bc94.png",
+    "static/media/5.96fb40f5.png": "/dogi/static/media/5.96fb40f5.png",
+    "static/media/6.73a6d1b1.png": "/dogi/static/media/6.73a6d1b1.png",
+    "static/media/7.6e425a7b.png": "/dogi/static/media/7.6e425a7b.png",
+    "static/media/8.02306961.png": "/dogi/static/media/8.02306961.png",
+    "static/media/9.2b3b3155.png": "/dogi/static/media/9.2b3b3155.png",
+    "static/media/reset.css": "/dogi/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1627040d.js",
+    "static/js/2.ff5b7248.chunk.js",
+    "static/css/main.ebad52b0.chunk.css",
+    "static/js/main.6fc57069.chunk.js"
+  ]
+}
